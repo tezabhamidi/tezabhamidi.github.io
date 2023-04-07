@@ -1,5 +1,10 @@
 ---
 title: "Welcome to my webpage!"
-format: html
+format: docx
 ---
-There's nothing on here as yet, but things are being cooked up as you read this, powered by Quarto. Please do check back soon for updates!
+## About me
+
+My name is Teza. I am a Scientist researching primarily on Signal Processing, Machine Learning and their implementations in real-time Hardware. Mostly this will be a research journal, in which I want to be documenting my academic experiments and reflections. 
+
+There's still only minimal stuff on here as yet. But things are being cooked up as you read this, powered by Quarto. Please do check back soon for updates!
+
